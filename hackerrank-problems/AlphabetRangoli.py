@@ -1,3 +1,6 @@
+
+# https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+
 # size 3
 
 # ----c----
