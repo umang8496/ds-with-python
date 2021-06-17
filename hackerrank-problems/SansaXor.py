@@ -1,4 +1,7 @@
-def SansaXor(arr):
+
+# https://www.hackerrank.com/challenges/sansa-and-xor/problem
+
+def sansaXor(arr):
     xor_result = 0
     N = len(arr)
 
@@ -14,6 +17,6 @@ def SansaXor(arr):
 if __name__ == "__main__":
     #arr = [1,2,3]
     arr = [4, 5, 7, 5]
-    result = SansaXor(arr)
+    result = sansaXor(arr)
 
     print(result)
